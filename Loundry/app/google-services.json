@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311422701866",
+    "project_id": "loundry-bb29e",
+    "storage_bucket": "loundry-bb29e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311422701866:android:18c0bfe119cff22a254e53",
+        "android_client_info": {
+          "package_name": "com.example.loundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311422701866-rt74dush7nphjb0643vtc8duv24qa0qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loundry",
+            "certificate_hash": "ef6ed1ca8a8ddc7c7baea2bb06c9e6040c46bbe1"
+          }
+        },
+        {
+          "client_id": "311422701866-6fsn7unng6g4i10879oio1n7gdueksl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH34UbGlsFoGDi3MS_UL2FszickVmh9jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311422701866-6fsn7unng6g4i10879oio1n7gdueksl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
